@@ -1,0 +1,8 @@
+{
+  "name": "Manifest",
+  "description": "A private sanctuary for intention, personalized manifestation practices, visualization, and grounded personal growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
